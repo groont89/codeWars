@@ -323,3 +323,8 @@ function squareAreaToCircle(size){
     
 }
 console.log(squareAreaToCircle(9));
+
+//Plural
+function plural(n) {
+  return n!==1;
+}
